@@ -5,6 +5,18 @@ Rock-On is a all in one recon tool that will help your Recon process give a boos
 
 # Tools Added
 
+Sublist3r
+Knock
+Subfinder
+Censys
+Amass
+CT Logs
+CTFR
+Wayback
+San Domains
+AltDns
+More to be added...
+
 
 # Requirements
 
