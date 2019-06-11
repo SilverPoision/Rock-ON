@@ -1,7 +1,7 @@
 # Rock-ON (A One-Shoot Killer)
 ![Rock-ON Logo](Logo.jpg)
 
-Rock-On is a all in one recon tool that will help your Recon process give a boost. It is mainley aim to automate the whole recon methods and save the time that is being wasted in doing this all stuff manually.
+Rock-On is a all in one recon tool that will help your Recon process give a boost. It is mainley aimed to automate the whole process of recon and save the time that is being wasted in doing this all stuffs manually.
 
 # Requirements
 
