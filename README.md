@@ -36,7 +36,8 @@ export GOROOT=/usr/local/go
 
 # Installation
 
-```chmod +x installer.sh
+```
+chmod +x installer.sh
 ./installer.sh
 ```
 
