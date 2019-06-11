@@ -35,4 +35,4 @@ Then enter the domain name
 
 # Give Rock-On some Love
 
-If this tool was useful to you during your recon stages - I would love to know. Any suggestions or ideas for this tool are appreciated - just DM me on [Facebook](https://www.facebook.com/silverpoision) or Twitter
+If this tool was useful to you during your recon stages - I would love to know. Any suggestions or ideas for this tool are appreciated - just DM me on [Facebook](https://www.facebook.com/silverpoision) or [Twitter](https://twitter.com/SilverPoision)
