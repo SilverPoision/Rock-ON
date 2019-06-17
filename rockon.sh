@@ -45,7 +45,7 @@ elif [[ $val == "3" ]]; then
 elif [[ $val == "4" ]]; then
 	echo "Enter the file name and Directory:"
 	read file
-	./recon.rb $file
+	ruby recon.rb $file
 
 else
         echo "Its not the correct option."
