@@ -3,6 +3,20 @@
 
 Rock-On is a all in one recon tool that will help your Recon process give a boost. It is mainley aimed to automate the whole process of recon and save the time that is being wasted in doing all this stuffs manually. A thorough blog will be up in sometime. Stay tuned for the Stable version with a UI.
 
+# Features
+
+1. Sub Domain Scraping
+1. Finding A.S.N -> Netblocks -> IP's
+1. Resolving
+1. Finding Ports
+1. Finding VHost
+1. Finding Directories
+1. Finding Sub Takeovers
+1. Asset tracker with live monitoring
+1. Push Notifications to Slack
+1. Finding JS link then relative links in them and some sensitive files
+1. Active and passive crawling
+
 # Recommendation
 
 Machine Configuration - Debian- 9.4, 4 GB RAM on DigitalOcean and its will be good to run this tool on a new and fresh VPS.
@@ -26,7 +40,7 @@ For changing:
 ```
 #### or 
 
-Follow @yassineaboukir guide to configure the slack for sublert and also for creating a webhook address for sub.sh ans ASN.sh here:
+Follow @yassineaboukir guide to configure the slack for sublert and also for creating a webhook address for sub.sh and ASN.sh here:
 https://medium.com/@yassineaboukir/automated-monitoring-of-subdomains-for-fun-and-profit-release-of-sublert-634cfc5d7708
 
 # Tools Added
