@@ -78,7 +78,7 @@ echo "Censys Done"
 echo "Installing Amass"
 go get -u github.com/OWASP/Amass/...
 echo "Enter the Directory where go/bin/ is installed"
-echo "For Example go/bin/amass"
+echo "For Example root/go/bin/amass"
 cd ..
 read dir
 mv $dir Tools/
@@ -198,17 +198,3 @@ wget https://github.com/SilverPoision/San/blob/master/word.txt
 cd ..
 echo "Vhost Done"
 echo -e \n\n "${RED}Once again don't forget to set the api keys for subfinder from here https://github.com/subfinder/subfinder#post-installation-instructions and also setting the AWS CLI creds. ${NC}"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
