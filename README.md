@@ -8,7 +8,7 @@ Rock-On is a all in one recon tool that will help your Recon process give a boos
 Machine Configuration - Debian- 9.4, 4 GB RAM on DigitalOcean and its will be good to run this tool on a new and fresh VPS.
 
 # Tools Added
-Thanks all the authors who have written these scripts and making a huge contribution to the great community. A big shout-out for @esahil for his blog on recon that helped me a lot while making this tool and taking examples for the repository.
+Thanks to all the aurthors who have written these scripts and making a huge contribution to the great community. A big shout-out for @ehsahil for his blog on recon that helped me a lot while making this tool and taking examples for the repository.
 
 1. Sublist3r 
 1. Knock 
@@ -72,6 +72,7 @@ Enter your choice and then the required Information.
 
 # Screenshot
 ![Rock-ON SC](Images/Screenshot%202019-06-17%20at%2012.33.34%20PM.png)
+![Rock-ON SC](Images/Screenshot%202019-06-17%20at%2012.44.42%20PM.png)
 
 # Give Rock-On some Love
 
