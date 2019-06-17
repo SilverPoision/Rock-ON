@@ -6,13 +6,14 @@ Rock-On is a all in one recon tool that will help your Recon process give a boos
 # Recommendation
 
 Machine Configuration - Debian- 9.4, 4 GB RAM on DigitalOcean and its will be good to run this tool on a new and fresh VPS.
+
 ### For Censys: 
 Set the API and SECRET KEY in the sub.sh unless you want to set it again and again. 
 
 For removing:
 ```
-Delete the lines 13-18
-Then set you API and SECRET KEY on line 47 & 48 like this: export CENSYS_API_ID=your_key_here
+1. Delete the lines 13-18
+2. Then set you API and SECRET KEY on line 47 & 48 like this: export CENSYS_API_ID=your_key_here
 ```
 
 ### For getting notification on Slack: 
