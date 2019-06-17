@@ -31,7 +31,7 @@ echo -e "${green}[3] Run ASN_Enum${NC}"
 echo -e "${green}[4] Run Resolver and other Attched Tools${NC}"
 
 
-echo -e "\n\nEnter your selection!!"
+echo -e "\n\nEnter your choice!!"
 read val
 if [[ $val == "1" ]]; then
         ./installer.sh
