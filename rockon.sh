@@ -5,10 +5,10 @@ orange='\033[93m'
 green='\033[92m'
 NC='\033[0m' # No Color
 
-chmod +x installer.sh
-chmod +x sub.sh
-chmod +x ASN.sh
-chmod +x recon.rb
+sudo chmod +x installer.sh
+sudo chmod +x sub.sh
+sudo chmod +x ASN.sh
+sudo chmod +x recon.rb
 
 echo -e ${orange}'
       (                          )      )  
