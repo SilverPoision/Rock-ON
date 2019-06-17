@@ -96,6 +96,7 @@ sudo apt-get upgrade && sudo apt-get update && sudo apt-get install git
 ```
 chmod +x rockon.sh
 ./rockon.sh
+1
 ```
 
 # Usage
