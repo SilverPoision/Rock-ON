@@ -17,12 +17,17 @@ For removing:
 ```
 
 ### For getting notification on Slack: 
-Change the webhook address to your one in sub.sh and ASN.sh to get notification while you do your other work.
+Change the webhook address to your one in sub.sh, ASN.sh and Sublert.py-> config.py to get notification while you do your other works.
 
 For changing:
 ```
-Replace the Webhook address at line 113 in sub.sh and 15 in ASN.sh
+1. Replace the Webhook address at line 113 in sub.sh and 15 in ASN.sh
+2. Replace the Webhook address in Tools/sublert/config.py
 ```
+#### or 
+
+Follow @yassineaboukir guide to configure the slack for sublert and also for creating a webhook address for sub.sh ans ASN.sh here:
+https://medium.com/@yassineaboukir/automated-monitoring-of-subdomains-for-fun-and-profit-release-of-sublert-634cfc5d7708
 
 # Tools Added
 Thanks to all the aurthors who have written these scripts and making a huge contribution to the great community. A big shout-out for @ehsahil for his blog on recon that helped me a lot while making this tool and taking examples for the repository.
