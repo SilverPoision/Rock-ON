@@ -1,13 +1,14 @@
 # Rock-ON (A One-Shoot Killer)
 ![Rock-ON Logo](logo1.jpg)
 
-Rock-On is a all in one recon tool that will help your Recon process give a boost. It is mainley aimed to automate the whole process of recon and save the time that is being wasted in doing this all stuffs manually.
+Rock-On is a all in one recon tool that will help your Recon process give a boost. It is mainley aimed to automate the whole process of recon and save the time that is being wasted in doing all this stuffs manually. A thorough blog will be up in sometime. Stay tuned for the Stable version with a UI.
 
 # Recommendation
 
 Machine Configuration - Debian- 9.4, 4 GB RAM on DigitalOcean and its will be good to run this tool on a new and fresh VPS.
 
 # Tools Added
+Thanks all the authors who have written these scripts and making a huge contribution to the great community. A big shout-out for @esahil for his blog on recon that helped me a lot while making this tool and taking examples for the repository.
 
 1. Sublist3r 
 1. Knock 
@@ -19,6 +20,16 @@ Machine Configuration - Debian- 9.4, 4 GB RAM on DigitalOcean and its will be go
 1. Wayback 
 1. San Domains 
 1. AltDns 
+1. NMAP
+1. Masscan
+1. MassDNS
+1. Sublert
+1. Aquatone
+1. Vhost
+1. Rapid7 FDNS DB
+1. AWS-CLI
+1. Dirsearch
+
 1. More to be added...
 
 
