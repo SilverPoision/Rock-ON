@@ -110,7 +110,7 @@ sed 's/*//g' all2.txt > all3.txt
 sed 's/^.//' all3.txt > finalsub.txt
 rm -f all.txt all2.txt all3.txt
 
-curl -X POST -H 'Content-type: applicion/json' --data '{"text":"Your SubDomain Enumeration process for '$domain' has been completed"}' https://hooks.slack.com/services/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
+curl -X POST -H 'Content-type: applicion/json' --data '{"text":"Your SubDomain Enumeration process for '$domain' has been completed"}' https://hooks.slack.com/services/TKHQXXXXX/BK6CGP62X/PtV7fggkgVpXX3xxxxxXXXXX
 
 echo -e "${RED}Congractulations You have done all the tests ans the VHosts are secured in vhost.txt seperately${NC}"
 
