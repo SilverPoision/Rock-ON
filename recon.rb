@@ -26,7 +26,7 @@ file.each_line do |subdomain|
   puts "Resolving Subdomain using Host."
   puts "+------------------------------------------------------------------------------------+"
   puts "#{subdomain}: #{ip}".colorize(color)
-  system("Host #{subdomain}") unless ip.eql?("unknown")
+  system("host #{subdomain}") unless ip.eql?("unknown")
   puts "Process Finished."
   puts
   puts "Nmap Process Started."
