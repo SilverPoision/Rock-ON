@@ -89,9 +89,7 @@ export GOROOT=/usr/local/go
 
 ### Note: For a new Fresh VPS run this commands first:
 ```
-sudo apt-get upgrade
-sudo apt-get update
-sudo apt-get install git
+sudo apt-get upgrade && sudo apt-get update && sudo apt-get install git
 ```
 
 ```
