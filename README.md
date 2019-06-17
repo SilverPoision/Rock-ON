@@ -77,6 +77,7 @@ Install by Following methods:
 ```
 wget https://dl.google.com/go/go1.12.5.linux-amd64.tar.gz
 tar -C /usr/local -xzf go1.12.5.linux-amd64.tar.gz
+rm -f go1.12.5.linux-amd64.tar.gz
 nano ~/.profile
 ```
 Add this lines
