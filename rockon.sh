@@ -43,10 +43,10 @@ elif [[ $val == "3" ]]; then
 	    ./ASN.sh
 
 elif [[ $val == "4" ]]; then
-	echo "Enter the file name and Directory:"
+	echo -e "${orange}Enter the file name and Directory:${NC}"
 	read file
 	ruby recon.rb $file
 
 else
-        echo "Its not the correct option."
+        echo -e "${RED}Its not the correct option.${NC}"
 fi
