@@ -6,6 +6,7 @@ sudo apt-get install -y python3-pip
 sudo apt-get install python-dnspython
 apt install -y python-pip
 sudo pip install -U requests
+gem install colorize
 sudo apt-get install -y libcurl4-openssl-dev
 sudo apt-get install -y libssl-dev
 sudo apt-get install -y jq
