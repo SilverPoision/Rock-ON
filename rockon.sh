@@ -43,7 +43,9 @@ elif [[ $val == "3" ]]; then
 	    ./ASN.sh
 
 elif [[ $val == "4" ]]; then
-	    ./recon.rb
+	echo "Enter the file name and Directory:"
+	read file
+	./recon.rb $file
 
 else
         echo "Its not the correct option."
