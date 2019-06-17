@@ -62,7 +62,7 @@ echo -e \n\n "${RED}Subfinder Ended..${NC}"
 #Running CT
 echo "+--------------------------------Subdomains By CT-------------------------------------+"
 python Tools/bugcrowd-levelup-subdomain-enumeration/subdomain_enum_crtsh.py --domains $domain >> $domain/ct$domain.txt
-echo -e \n\n "${RED}CT Ended..${RED}"
+echo -e \n\n "${RED}CT Ended..${NC}"
 
 #Running CTFR
 echo "+--------------------------------Subdomains By CTFR-------------------------------------+"
