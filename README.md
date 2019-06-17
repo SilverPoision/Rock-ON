@@ -6,6 +6,22 @@ Rock-On is a all in one recon tool that will help your Recon process give a boos
 # Recommendation
 
 Machine Configuration - Debian- 9.4, 4 GB RAM on DigitalOcean and its will be good to run this tool on a new and fresh VPS.
+### For Censys: 
+Set the API and SECRET KEY in the sub.sh unless you want to set it again and again. 
+
+For removing:
+```
+Delete the lines 13-18
+Then set you API and SECRET KEY on line 47 & 48 like this: export CENSYS_API_ID=your_key_here
+```
+
+### For getting notification on Slack: 
+Change the webhook address to your one in sub.sh and ASN.sh to get notification while you do your other work.
+
+For changing:
+```
+Replace the Webhook address at line 113 in sub.sh and 15 in ASN.sh
+```
 
 # Tools Added
 Thanks to all the aurthors who have written these scripts and making a huge contribution to the great community. A big shout-out for @ehsahil for his blog on recon that helped me a lot while making this tool and taking examples for the repository.
@@ -35,7 +51,7 @@ Thanks to all the aurthors who have written these scripts and making a huge cont
 
 # Requirements
 
-Go-Languange
+### Go-Languange
 
 Install by Following methods:
 ```
@@ -51,7 +67,7 @@ export GOROOT=/usr/local/go
 
 # Installation
 
-Note: For a new Fresh VPS run this commands first:
+### Note: For a new Fresh VPS run this commands first:
 ```
 sudo apt-get upgrade
 sudo apt-get update
