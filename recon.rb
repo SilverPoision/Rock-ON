@@ -49,6 +49,6 @@ file.each_line do |subdomain|
   # Get it from https://github.com/maurosoria/dirsearch
   puts "+-------------------------------------------------------------------------------------+"
   puts "#{subdomain}".colorize(color)
-  system("python3 dirsearch/dirsearch.py  -e * -u #{subdomain}")
+  system("python3 Tools/dirsearch/dirsearch.py  -e * -u #{subdomain}")
   puts "Dirsearch Process Finished."
 end
