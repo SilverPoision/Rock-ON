@@ -98,7 +98,10 @@ chmod +x rockon.sh
 ./rockon.sh
 1
 ```
-
+Also don't forget to configure your AWS credentials by running 
+```
+aws configure
+```
 # Usage
 
 ```
