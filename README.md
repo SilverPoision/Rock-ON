@@ -38,7 +38,7 @@ For changing:
 1. Replace the Webhook address at line 113 in sub.sh and 15 in ASN.sh
 2. Replace the Webhook address in Tools/sublert/config.py
 ```
-#### or 
+#### AND
 
 Follow @yassineaboukir guide to configure the slack for sublert and also for creating a webhook address for sub.sh and ASN.sh here:
 https://medium.com/@yassineaboukir/automated-monitoring-of-subdomains-for-fun-and-profit-release-of-sublert-634cfc5d7708
@@ -94,6 +94,8 @@ sudo apt-get upgrade && sudo apt-get update && sudo apt-get install git
 ```
 
 ```
+git clone https://github.com/SilverPoision/Rock-ON.git
+cd Rock-ON
 chmod +x rockon.sh
 ./rockon.sh
 1
