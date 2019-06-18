@@ -115,6 +115,11 @@ Enter your choice and then the required Information.
 ![Rock-ON SC](Images/Screenshot%202019-06-17%20at%2012.33.34%20PM.png)
 ![Rock-ON SC](Images/Screenshot%202019-06-17%20at%2012.44.42%20PM.png)
 
+#### Note: Run the below command while running the 4th option for the first time.
+```
+gem install colorize
+```
+
 # Give Rock-On some Love
 
 If this tool was useful to you during your recon stages - I would love to know. Any suggestions or ideas for this tool are appreciated - Just DM me on [Facebook](https://www.facebook.com/silverpoision) or [Twitter](https://twitter.com/SilverPoision)
