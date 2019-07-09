@@ -168,7 +168,7 @@ echo "Censys Done"
 
 echo "Downloading FDNS dataset"
 cd ..
-wget https://opendata.rapid7.com/sonar.fdns_v2/2019-05-31-1559261131-fdns_cname.json.gz
+wget https://opendata.rapid7.com/sonar.fdns_v2/2019-06-21-1561158121-fdns_cname.json.gz
 
 ##########################Linkfinder##########################
 
