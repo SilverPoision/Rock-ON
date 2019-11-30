@@ -143,7 +143,7 @@ cd ..
 gem install aquatone
 echo "Aquatone Done"
 
-##########################SUBlert##########################
+##########################Sublert##########################
 
 echo "Installing SUblert"
 git clone https://github.com/yassineaboukir/sublert.git && cd sublert
@@ -164,11 +164,11 @@ cd censys-subdomain-finder
 pip install -r requirements.txt
 echo "Censys Done"
 
-##########################Knock##########################
+##########################FDNS##########################
 
 echo "Downloading FDNS dataset"
 cd ..
-wget https://opendata.rapid7.com/sonar.fdns_v2/2019-06-21-1561158121-fdns_cname.json.gz
+wget https://opendata.rapid7.com/sonar.fdns_v2/2019-10-27-1572199582-fdns_cname.json.gz
 
 ##########################Linkfinder##########################
 
